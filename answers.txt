@@ -1,3 +1,8 @@
 What is the difference between a merge and a rebase?
 
-A merge updates the current branch to include the changes in the branch specified in "git merge <branch>". A rebase changes the origin of the current branch to be the end of the branch specified in "git rebase <branch>". 
+A merge updates the current branch to include the changes in the branch specified in "git merge <branch>". A rebase changes the origin of the current branch to be the end of the branch specified in "git rebase <branch>".
+
+What is a remote repository?
+
+It's an online version of a collection of files that allows for collaboration (writing to and pulling from). 
+
